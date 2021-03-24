@@ -1,1 +1,16 @@
 /.metadata/
+.vscode
+bin
+.idea
+.gradle
+*.iml
+*.ipr
+*.iws
+out
+build
+tmp
+.classpath
+.project
+.settings
+target
+**/.DS_Store
